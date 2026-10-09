@@ -3,9 +3,9 @@
 ## OBJETIVOS 
 
 ### STACK TECNÓLOGICO
-Backend: PHP estruturado em sessões narrativas
-Banco de dados: MySQL (PDO para segurança)
-Frontend: HTMLS, PHP, CSS, Taiwind CSS
+- Backend: PHP estruturado em sessões narrativas
+- Banco de dados: MySQL (PDO para segurança)
+- Frontend: HTMLS, PHP, CSS, Taiwind CSS
 
 #### Regras de negocio (CORE) 
 
