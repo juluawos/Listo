@@ -2,7 +2,7 @@
 
 ## OBJETIVOS 
 
-Oferecer uma plataforma prática e intuitiva para que as pessoas possam organizar sua rotina criando, personalizando e compartilhando listas de tarefas, compras, filmes, músicas e viagens com outras pessoas, utilizando ícones visuais para facilitar a identificação. Para garantir a segurança dos dados e a individualidade de cada conta, o acesso é feito por meio de um cadastro único atrelado a um só e-mail por usuário.
+criar um site que a seja uma plataforma prática e intuitiva para que as pessoas possam organizar sua rotina criando, personalizando e compartilhando listas de tarefas, compras, filmes, músicas e viagens com outras pessoas, utilizando ícones visuais para facilitar a identificação. Para garantir a segurança dos dados e a individualidade de cada conta, o acesso é feito por meio de um cadastro único atrelado a um só e-mail por usuário.
 
 ### STACK TECNÓLOGICO
 - Backend: PHP estruturado em sessões nativas
